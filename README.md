@@ -34,4 +34,4 @@
 
 1. **Repository ko Clone karein:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/recipe-hub.git](https://github.com/YOUR_GITHUB_USERNAME/recipe-hub.git)
+   git clone [https://github.com/HassanMD-Dev/recipe-hub.git](https://github.com/HassanMD-Dev/recipe-hub.git)
