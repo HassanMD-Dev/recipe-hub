@@ -12,7 +12,7 @@
 ## ✨ Key Features
 
 * 🔍 **Smart Search:** TheMealDB API ka istemal karte hue kisi bhi dish ko foran dhoondiye.
-* 🌓 **Advanced Dark Mode:** Tailwind CSS v4 ke `@variant` logic ke saath smooth dark/light toggle.
+* 🌓 **Advanced Dark Mode:** Tailwind CSS v4 ke @variant logic ke saath smooth dark/light toggle.
 * 📱 **Mobile First Design:** Har screen size (Mobile, Tablet, Desktop) par behtareen UI/UX.
 * 🎥 **Interactive Animations:** Framer Motion use karke cards aur modals mein smooth transitions.
 * 🍲 **Recipe Details:** Modal view mein ingredients aur cooking instructions ki mukammal detail.
@@ -23,34 +23,31 @@
 ## 🛠️ Tech Stack
 
 - **Framework:** React.js (Vite)
-- **Styling:** Tailwind CSS v4 (Modern CSS-first approach)
+- **Styling:** Tailwind CSS v4
 - **Animations:** Framer Motion
 - **API Integration:** Fetch API (TheMealDB)
-- **Icons:** Custom SVG Logic (Sun/Moon Toggle)
 
 ---
 
 ## 📦 How to Run Locally
 
 1. **Repository ko Clone karein:**
-   ```bash
-   git clone [https://github.com/HassanMD-Dev/recipe-hub.git](https://github.com/HassanMD-Dev/recipe-hub.git)
+   \`git clone https://github.com/YOUR_GITHUB_USERNAME/recipe-hub.git\`
 
-2.**Project Folder mein jayein:**
+2. **Project Folder mein jayein:**
+   \`cd recipe-hub\`
 
-```bash
-cd recipe-hub
+3. **Dependencies Install karein:**
+   \`npm install\`
 
-3.**Dependencies Install karein:**
-```bash
-   npm install
-4.**Development Server Start karein:**
+4. **Development Server Start karein:**
+   \`npm run dev\`
 
-```bash
-npm run dev
+---
 
-👨‍💻 Author
-Hassan Frontend Web Developer GitHub: @YOUR_GITHUB_USERNAME
+## 👨‍💻 Author
+**Hassan Muhayyudin** - *Frontend Web Developer*
 
-📝 Note:
-Agar aapko ye project pasand aaye toh GitHub par Star ⭐️ zaroori dein!
+---
+### 📝 Note:
+If You Like this project than **Star ⭐️** on GitHub.
