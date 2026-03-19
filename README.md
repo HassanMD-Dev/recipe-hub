@@ -35,3 +35,22 @@
 1. **Repository ko Clone karein:**
    ```bash
    git clone [https://github.com/HassanMD-Dev/recipe-hub.git](https://github.com/HassanMD-Dev/recipe-hub.git)
+
+2.**Project Folder mein jayein:**
+
+```bash
+cd recipe-hub
+
+3.**Dependencies Install karein:**
+```bash
+   npm install
+4.**Development Server Start karein:**
+
+```bash
+npm run dev
+
+👨‍💻 Author
+Hassan Frontend Web Developer GitHub: @YOUR_GITHUB_USERNAME
+
+📝 Note:
+Agar aapko ye project pasand aaye toh GitHub par Star ⭐️ zaroori dein!
