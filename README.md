@@ -1,16 +1,37 @@
-# React + Vite
+# 🍳 Recipe Hub - Discover Your Next Favorite Meal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Recipe Hub** ek modern, fast aur fully responsive recipe searching application hai. Isay **React.js** aur **Tailwind CSS v4** ke saath build kiya gaya hai, jo users ko hazaron recipes dhoondne aur unke ingredients dekhne ki saholat deta hai.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+🔗 **[Yahan apna Vercel Link Paste karein]**
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+* 🔍 **Smart Search:** TheMealDB API ka istemal karte hue kisi bhi dish ko foran dhoondiye.
+* 🌓 **Advanced Dark Mode:** Tailwind CSS v4 ke `@variant` logic ke saath smooth dark/light toggle.
+* 📱 **Mobile First Design:** Har screen size (Mobile, Tablet, Desktop) par behtareen UI/UX.
+* 🎥 **Interactive Animations:** Framer Motion use karke cards aur modals mein smooth transitions.
+* 🍲 **Recipe Details:** Modal view mein ingredients aur cooking instructions ki mukammal detail.
+* 🎨 **Custom Branding:** Professional orange-themed logo aur consolidated footer design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React.js (Vite)
+- **Styling:** Tailwind CSS v4 (Modern CSS-first approach)
+- **Animations:** Framer Motion
+- **API Integration:** Fetch API (TheMealDB)
+- **Icons:** Custom SVG Logic (Sun/Moon Toggle)
+
+---
+
+## 📦 How to Run Locally
+
+1. **Repository ko Clone karein:**
+   ```bash
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/recipe-hub.git](https://github.com/YOUR_GITHUB_USERNAME/recipe-hub.git)
